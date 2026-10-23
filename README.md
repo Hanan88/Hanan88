@@ -1,37 +1,38 @@
-# Hi there 👋 I'm a Frontend Developer
+<div align="center">
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzg0bXhoN2oybW55eHE2YW9rcXhiYm4wM2RsdDV0cnpmNTI4NmxiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HwBlFQZFcAoUcPHZdX/giphy.gif" width="200" />
+# Hanan Elhariri
+
+### Frontend Developer · React & Next.js
+
+Building accessible interfaces, responsive layouts, and thoughtful web experiences.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%E2%80%99s_connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/hananelhariri/)
+
 </div>
 
-<p width="50">
-  with experience in proven leadership and meaning fully contributions to teams of varying sizes and scopes.
-   Experience in driving projects forward as the development team leader, facilitating projects from concept to launch.
-</p>
+---
 
-## 🧰 Languages and Tools
- 
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,ts,bootstrap,tailwind,materialui,sass,babel,react,redux,postman" />
-  </a>
-</p>
- 
-  
-## 📫 How to reach me:
-  - [Linkedin](https://www.linkedin.com/in/hananelhariri/)
+I work with **React, Next.js, and TypeScript** to turn product requirements into clear, usable interfaces. My interests include reusable components, responsive design, and accessibility.
 
-<!--
-**Hanan88/Hanan88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile..
+### My toolkit
 
-Here are some ideas to get you started:
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Also work with:** Redux, Material UI, Sass, and Git.
+
+### Open-source contributions
+
+| Project | Contribution | Status |
+| --- | --- | --- |
+| [DevTasks](https://github.com/shamilahmdt/devtasks) | Fixed React utility card definitions that prevented the app from building. | [PR #488 · Open](https://github.com/shamilahmdt/devtasks/pull/488) |
+| [AnomalyLab](https://github.com/GUTOMADON/anomalylab) | Added an accessible comparison summary and regression tests. | [PR #12 · Draft](https://github.com/GUTOMADON/anomalylab/pull/12) |
+
+### Connect
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/hananelhariri/).
