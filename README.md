@@ -2,7 +2,7 @@
 
 # Hanan Elhariri
 
-### Frontend Developer · React & Next.js
+### Frontend Developer · React, Next.js & TypeScript
 
 Building accessible interfaces, responsive layouts, and thoughtful web experiences.
 
@@ -30,9 +30,10 @@ I work with **React, Next.js, and TypeScript** to turn product requirements into
 
 | Project | Contribution | Status |
 | --- | --- | --- |
-| [DevTasks](https://github.com/shamilahmdt/devtasks) | Fixed React utility card definitions that prevented the app from building. | [PR #488 · Open](https://github.com/shamilahmdt/devtasks/pull/488) |
-| [AnomalyLab](https://github.com/GUTOMADON/anomalylab) | Added an accessible comparison summary and regression tests. | [PR #12 · Draft](https://github.com/GUTOMADON/anomalylab/pull/12) |
+| [Better Chatbot](https://github.com/keinsaasforever/better-chatbot) | Restored mention chips in sent messages while preserving editing and copying. | [Merged · #432](https://github.com/keinsaasforever/better-chatbot/pull/432) |
+| [DevTasks](https://github.com/shamilahmdt/devtasks) | Fixed React utility card definitions that prevented the app from building. | [Merged · #488](https://github.com/shamilahmdt/devtasks/pull/488) |
+| [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) | Added inspectable fix and suggestion details to the Playground. | [Open · #13152](https://github.com/typescript-eslint/typescript-eslint/pull/13152) |
+| [Recharts](https://github.com/recharts/recharts) | Added gallery inspection tools and StackBlitz source links. | [Open · #8175](https://github.com/recharts/recharts/pull/8175) |
+| [OpenDataEnsemble](https://github.com/OpenDataEnsemble/website) | Respected reduced-motion preferences in testimonials and fixed carousel navigation. | [Open · #23](https://github.com/OpenDataEnsemble/website/pull/23) |
 
-### Connect
-
-You can find me on [LinkedIn](https://www.linkedin.com/in/hananelhariri/).
+<sub>PR statuses checked on 6 November 2026.</sub>
