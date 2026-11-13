@@ -26,14 +26,11 @@ I work with **React, Next.js, and TypeScript** to turn product requirements into
 
 **Also work with:** Redux, Material UI, Sass, and Git.
 
-### Open-source contributions
+### Selected open-source contributions
 
 | Project | Contribution | Status |
 | --- | --- | --- |
+| [Recharts](https://github.com/recharts/recharts) | Added gallery inspection tools and StackBlitz source links. | [Merged · #8175](https://github.com/recharts/recharts/pull/8175) |
+| [OpenDataEnsemble](https://github.com/OpenDataEnsemble/website) | Respected reduced-motion preferences in testimonials and fixed carousel navigation. | [Merged · #23](https://github.com/OpenDataEnsemble/website/pull/23) |
 | [Better Chatbot](https://github.com/keinsaasforever/better-chatbot) | Restored mention chips in sent messages while preserving editing and copying. | [Merged · #432](https://github.com/keinsaasforever/better-chatbot/pull/432) |
 | [DevTasks](https://github.com/shamilahmdt/devtasks) | Fixed React utility card definitions that prevented the app from building. | [Merged · #488](https://github.com/shamilahmdt/devtasks/pull/488) |
-| [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) | Added inspectable fix and suggestion details to the Playground. | [Open · #13152](https://github.com/typescript-eslint/typescript-eslint/pull/13152) |
-| [Recharts](https://github.com/recharts/recharts) | Added gallery inspection tools and StackBlitz source links. | [Open · #8175](https://github.com/recharts/recharts/pull/8175) |
-| [OpenDataEnsemble](https://github.com/OpenDataEnsemble/website) | Respected reduced-motion preferences in testimonials and fixed carousel navigation. | [Open · #23](https://github.com/OpenDataEnsemble/website/pull/23) |
-
-<sub>PR statuses checked on 6 November 2026.</sub>
