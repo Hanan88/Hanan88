@@ -30,6 +30,7 @@ I work with **React, Next.js, and TypeScript** to turn product requirements into
 
 | Project | Contribution | Status |
 | --- | --- | --- |
+| [Base UI](https://github.com/mui/base-ui) | Kept keyboard focus inside open dialogs and popovers when React Activity hides and reveals them in quick succession. | [Open · #6241](https://github.com/mui/base-ui/pull/6241) |
 | [Recharts](https://github.com/recharts/recharts) | Added gallery inspection tools and StackBlitz source links. | [Merged · #8175](https://github.com/recharts/recharts/pull/8175) |
 | [OpenDataEnsemble](https://github.com/OpenDataEnsemble/website) | Respected reduced-motion preferences in testimonials and fixed carousel navigation. | [Merged · #23](https://github.com/OpenDataEnsemble/website/pull/23) |
 | [Better Chatbot](https://github.com/keinsaasforever/better-chatbot) | Restored mention chips in sent messages while preserving editing and copying. | [Merged · #432](https://github.com/keinsaasforever/better-chatbot/pull/432) |
