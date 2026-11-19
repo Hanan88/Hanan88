@@ -30,7 +30,6 @@ I work with **React, Next.js, and TypeScript** to turn product requirements into
 
 | Project | Contribution | Status |
 | --- | --- | --- |
-| [Chakra UI](https://github.com/chakra-ui/chakra-ui) | Kept long NumberInput values clear of the increment and decrement controls in LTR and RTL layouts. | [Open · #11083](https://github.com/chakra-ui/chakra-ui/pull/11083) |
 | [Base UI](https://github.com/mui/base-ui) | Kept keyboard focus inside open dialogs and popovers when React Activity hides and reveals them in quick succession. | [Open · #6241](https://github.com/mui/base-ui/pull/6241) |
 | [Recharts](https://github.com/recharts/recharts) | Added gallery inspection tools and StackBlitz source links. | [Merged · #8175](https://github.com/recharts/recharts/pull/8175) |
 | [OpenDataEnsemble](https://github.com/OpenDataEnsemble/website) | Respected reduced-motion preferences in testimonials and fixed carousel navigation. | [Merged · #23](https://github.com/OpenDataEnsemble/website/pull/23) |
