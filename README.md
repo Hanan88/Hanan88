@@ -30,6 +30,7 @@ I work with **React, Next.js, and TypeScript** to turn product requirements into
 
 | Project | Contribution | Status |
 | --- | --- | --- |
+| [Downshift](https://github.com/downshift-js/downshift) | Prevented duplicate selection callbacks when React reruns effects, including when hidden Activity content is shown again. | [Open · #1707](https://github.com/downshift-js/downshift/pull/1707) |
 | [Mantine](https://github.com/mantinedev/mantine) | Fixed PhoneInput deletion getting stuck on formatting and kept the caret stable while editing country codes. | [Open · #9466](https://github.com/mantinedev/mantine/pull/9466) |
 | [Base UI](https://github.com/mui/base-ui) | Kept keyboard focus inside open dialogs and popovers when React Activity hides and reveals them in quick succession. | [Open · #6241](https://github.com/mui/base-ui/pull/6241) |
 | [Recharts](https://github.com/recharts/recharts) | Added gallery inspection tools and StackBlitz source links. | [Merged · #8175](https://github.com/recharts/recharts/pull/8175) |
