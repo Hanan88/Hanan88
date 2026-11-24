@@ -30,6 +30,7 @@ I work with **React, Next.js, and TypeScript** to turn product requirements into
 
 | Project | Contribution | Status |
 | --- | --- | --- |
+| [React CodeMirror](https://github.com/uiwjs/react-codemirror) | Removed the unsupported defaultValue option from editor TypeScript props and added consumer type checks to CI. | [Open · #773](https://github.com/uiwjs/react-codemirror/pull/773) |
 | [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap) | Fixed v2 TypeScript declaration errors in NavbarCollapse and Tabs when exactOptionalPropertyTypes is enabled. | [Open · #7078](https://github.com/react-bootstrap/react-bootstrap/pull/7078) |
 | [Downshift](https://github.com/downshift-js/downshift) | Prevented duplicate selection callbacks when React reruns effects, including when hidden Activity content is shown again. | [Open · #1707](https://github.com/downshift-js/downshift/pull/1707) |
 | [Mantine](https://github.com/mantinedev/mantine) | Fixed PhoneInput deletion getting stuck on formatting and kept the caret stable while editing country codes. | [Open · #9466](https://github.com/mantinedev/mantine/pull/9466) |
