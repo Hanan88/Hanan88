@@ -30,6 +30,7 @@ I work with **React, Next.js, and TypeScript** to turn product requirements into
 
 | Project | Contribution | Status |
 | --- | --- | --- |
+| [React Hot Toast](https://github.com/timolins/react-hot-toast) | Kept automatic toast expiration scoped to its toaster so matching IDs in other containers remain visible. | [Open · #442](https://github.com/timolins/react-hot-toast/pull/442) |
 | [React CodeMirror](https://github.com/uiwjs/react-codemirror) | Removed the unsupported defaultValue option from editor TypeScript props and added consumer type checks to CI. | [Merged · #773](https://github.com/uiwjs/react-codemirror/pull/773) |
 | [React Bootstrap](https://github.com/react-bootstrap/react-bootstrap) | Fixed v2 TypeScript declaration errors in NavbarCollapse and Tabs when exactOptionalPropertyTypes is enabled. | [Open · #7078](https://github.com/react-bootstrap/react-bootstrap/pull/7078) |
 | [Downshift](https://github.com/downshift-js/downshift) | Prevented duplicate selection callbacks when React reruns effects, including when hidden Activity content is shown again. | [Open · #1707](https://github.com/downshift-js/downshift/pull/1707) |
